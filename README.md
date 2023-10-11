@@ -7,4 +7,4 @@ Microbial diversity is associated with improved outcome in patients receiving al
 
 This repository includes Jupyter notebooks adapted from the [shunPykeR](https://github.com/kousaa/shunPykeR) GitHub repository that accompany this publication.
 
-Raw and processed data to be used with these notebooks have been deposited in the Gene Expression Omnibus (GEO) under accession code: [GSE194328](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE194328).
+Raw and processed data to be used with these notebooks have been deposited in the Gene Expression Omnibus (GEO) under accession code: [GSE194328](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE194328)
